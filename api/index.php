@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="description" content="">
     <meta name="author" content="">
-    <link rel="icon" href="https://w7.pngwing.com/pngs/116/158/png-transparent-earth-t-shirt-planet-earth-planet-earth-globe-world-earth-thumbnail.png">
+    <link rel="icon" href="https://getbootstrap.com/favicon.ico">
 
     <title>DIARIO EL HOCICÓN</title>
 
@@ -221,7 +221,7 @@
       <!-- Fila 4 -->
       <?php
         include("secciones/cultura.php");
-        include("secciones/gente.php");
+        include("secciones/nube.php");
       ?>
       <div class="row mb-2">
         <div class="col-md-6">
@@ -279,7 +279,7 @@
       <?php
         include("secciones/deportes.php");
         include("secciones/television.php");
-        include("secciones/video.php");
+        include("secciones/uns.php");
       ?>
       <div class="row mb-2">
         <div class="col-md-4">
