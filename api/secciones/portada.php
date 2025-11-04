@@ -9,3 +9,6 @@ $portada = [
 "resumen" => "Las noticias mas importantes del 2025",
 ];
 ?>
+
+<!-- Aquí se muestra la imagen -->
+<img src="<?php echo $portada["img"]; ?>" alt="Imagen de la noticia" width="400">

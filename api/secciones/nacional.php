@@ -10,3 +10,6 @@ $nacional = [
 "img"=>"api/img/canciler.jpg"
 ];
 ?>
+
+<!-- Aquí se muestra la imagen -->
+<img src="<?php echo $nacional["img"]; ?>" alt="Imagen de la noticia" width="400">
