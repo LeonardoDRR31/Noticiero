@@ -77,6 +77,8 @@
             </div>
           </div>
         </div>
+
+      
         <div class="col-md-6">
           <div class="card flex-md-row mb-4 shadow-sm ">
             <div class="card-body d-flex flex-column align-items-start col-md-12">
