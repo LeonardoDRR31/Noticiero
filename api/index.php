@@ -66,6 +66,9 @@
               <a class="text-dark" href="#">
                 <?php echo $internacional["titulo"]; ?>
               </a>
+              <a class="text-dark" href="#">
+                <?php echo $internacional["img"]; ?>
+              </a>
             </h3>
             <div class="mb-1 text-muted"><?php echo $internacional["autor"]; ?></div>
             <p class="card-text mb-auto"><?php echo $internacional["resumen"]; ?></p>
