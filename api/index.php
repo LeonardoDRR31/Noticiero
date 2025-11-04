@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="description" content="">
     <meta name="author" content="">
-    <link rel="icon" href="https://getbootstrap.com/favicon.ico">
+    <link rel="icon" href="https://png.pngtree.com/png-vector/20240601/ourmid/pngtree-the-power-of-real-world-images-in-storytelling-png-image_12595360.png">
 
     <title>DIARIO EL HOCICÓN</title>
 
