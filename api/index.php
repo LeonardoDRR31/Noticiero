@@ -76,7 +76,8 @@
       <!-- Nacional -->
       <div class="col-md-6">
         <div class="card flex-md-row mb-4 shadow-sm">
-          <img class="card-img-left flex-auto d-none d-md-block" src="../img/canciller.jpg"
+          <img src="../img/canciller.jpg">
+          <img class="card-img-left flex-auto d-none d-md-block" src="<?php echo $nacional['img']; ?>"
             alt="Imagen nacional" style="width: 200px; height: auto; object-fit: cover;">
           <div class="card-body d-flex flex-column align-items-start col-md-12">
             <strong class="d-inline-block mb-2 text-success">Nacional</strong>
