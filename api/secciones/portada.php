@@ -7,6 +7,6 @@ $portada = [
 "titulo" => "ROJAS ROJAS LEONARDO D",
 "autor" => "jperez",
 "resumen" => "Las noticias mas importantes del 2025",
-"img" => "/img/portada.jpg"
+"img" => "/api/img/portada.jpg"
 ];
 ?>

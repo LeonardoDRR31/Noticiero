@@ -35,6 +35,8 @@
     ?>
     <div class="jumbotron p-3 p-md-5 text-white rounded bg-dark">
       <div class="col-md-12 px-0">
+        <img class="card-img-left flex-auto d-none d-md-block" src="<?php echo $portada['img']; ?>"
+            alt="Imagen internacional" style="width: 200px; height: auto; object-fit: cover;">
         <h1 class="display-4 font-italic">
           <?php
           echo $portada["titulo"];
