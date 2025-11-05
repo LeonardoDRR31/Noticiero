@@ -4,7 +4,7 @@ SUSTITUYE LAS XXX POR UN VALOR DE UNA NOTICIA DE INTERES EN ESTA CATEGORIA
 *****/
 
 $portada = [
-"titulo" => "ROJAS ROJAS LEONARDO D",
+"titulo" => "ISMAEL ROJAS ROJAS",
 "autor" => "jperez",
 "resumen" => "Las noticias mas importantes del 2025",
 "img" => "/img/portada.jpg"
