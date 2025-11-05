@@ -61,7 +61,7 @@
       <div class="col-md-6">
         <div class="card flex-md-row mb-4 shadow-sm">
           
-          <img class="card-img-left flex-auto d-none d-md-block" src="<?php echo $internacional['img']; ?>"
+          <img class="card-img-left flex-auto d-none d-md-block" src="<?php echo $internacional['api/img']; ?>"
             alt="Imagen internacional" style="width: 200px; height: auto; object-fit: cover;">
           <div class="card-body d-flex flex-column align-items-start col-md-12">
             <strong class="d-inline-block mb-2 text-primary">Internacional</strong>
