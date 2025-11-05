@@ -21,8 +21,8 @@
 
 <body>
 
-  <div class="container"; style="background-image: url('/img/portada.jpg'); bgackground-size: cover; background-repeat: no-repeat;">
-    <header class="blog-header py-3">
+  <div class="container">
+    <header class="blog-header py-3"; style="background-image: url('/img/portada.jpg'); bgackground-size: cover; background-repeat: no-repeat;">
       <div class="row flex-nowrap justify-content-between align-items-center">
         <div class="col-12 text-center">
           <a class="blog-header-logo text-dark" href="#">NOTICIAS SON NOTICIAS 2025</a>
