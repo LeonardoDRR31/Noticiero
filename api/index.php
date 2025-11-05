@@ -33,7 +33,7 @@
     <?php
     include("secciones/portada.php");
     ?>
-    <div class="jumbotron p-3 p-md-5 text-white rounded bg-dark">
+    <div class="jumbotron text-white rounded bg-dark">
       <div class="col-md-12 px-0"; style="background-image: url('/img/portada.jpg'); bgackground-size: cover; background-repeat: no-repeat;">
         <h1 class="display-4 font-italic">
           <?php
