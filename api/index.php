@@ -23,8 +23,7 @@
 
   <div class="container">
     <header class="blog-header py-3">
-      <div class="row flex-nowrap justify-content-between align-items-center"; style="background-image: url('/img/portada.jpg'); bgackground-size: cover; background-repeat: no-repeat;">
-        <div class="col-12 text-center">
+      <div class="row flex-nowrap justify-content-between align-items-center">
           <a class="blog-header-logo text-dark" href="#">NOTICIAS SON NOTICIAS 2025</a>
         </div>
       </div>
@@ -33,7 +32,8 @@
     <?php
     include("secciones/portada.php");
     ?>
-    <div class="jumbotron p-3 p-md-5 text-white rounded bg-dark">
+    <div class="jumbotron p-3 p-md-5 text-white rounded bg-dark"; style="background-image: url('/img/portada.jpg'); bgackground-size: cover; background-repeat: no-repeat;">
+        <div class="col-12 text-center">
       <div class="col-md-12 px-0">
         <h1 class="display-4 font-italic">
           <?php
