@@ -51,7 +51,7 @@
     <!-- Fila 1 -->
     <?php
     include("secciones/internacional.php");
-    include(__DIR__ . "/api/secciones/nacional.php");
+    include(__DIR__ . "/secciones/nacional.php");
     ?>
 
     <div class="row mb-2">
