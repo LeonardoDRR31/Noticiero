@@ -5,6 +5,10 @@
     }
   },
   "routes": [
-    { "src": "/(.*)",  "dest": "/api/index.php" }
+    { "src": "/(.*)",  "dest": "/api/index.php" },
+    {
+      "src": "/img/(.*)",
+      "dest": "/api/img/$1"
+    }
   ]
 }

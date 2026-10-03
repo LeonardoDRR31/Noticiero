@@ -33,8 +33,8 @@
     <?php
     include("secciones/portada.php");
     ?>
-    <div class="jumbotron text-white rounded bg-dark">
-      <div class="col-md-12 px-0"; style="background-image: url('/img/portada.jpg'); bgackground-size: cover; background-repeat: no-repeat;">
+    <div class="jumbotron text-white rounded bg-dark" style="background-image: url('img/portada.jpg'); background-size: 100% 100%; background-repeat: no-repeat; background-position: center;">
+      <div class="col-md-12 px-0"; >
         <h1 class="display-4 font-italic">
           <?php
           echo $portada["titulo"];
@@ -79,7 +79,7 @@
       <!-- Nacional -->
       <div class="col-md-6">
         <div class="card flex-md-row mb-4 shadow-sm">
-          <img src="/img/canciller.jpg" alt="">
+          <img src="img/canciller.jpg" alt="">
           <div class="card-body d-flex flex-column align-items-start col-md-12">
             <strong class="d-inline-block mb-2 text-success">Nacional</strong>
             <h3 class="mb-0">
