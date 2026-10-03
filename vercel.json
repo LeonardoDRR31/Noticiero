@@ -7,12 +7,12 @@
   },
   "routes": [
     {
-      "src": "/(.*)",
-      "dest": "/api/index.php"
-    },
-    {
       "src": "/img/(.*)",
       "dest": "/api/img/$1"
+    },
+    {
+      "src": "/(.*)",
+      "dest": "/api/index.php"
     }
   ]
 }
