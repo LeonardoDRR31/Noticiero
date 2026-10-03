@@ -51,7 +51,7 @@
     <!-- Fila 1 -->
     <?php
     include("secciones/internacional.php");
-    include(__DIR__ . "secciones/nacional.php");
+    include(__DIR__ . "/secciones/nacional.php");
     ?>
 
     <div class="row mb-2">
@@ -86,6 +86,8 @@
               <a class="text-dark" href="#">
                 <?php echo $nacional["titulo"]; ?>
               </a>
+              <img class="card-img-left flex-auto d-none d-md-block" src="<?php echo $nacional['img']; ?>"
+                alt="Imagen nacional" style="width: 200px; height: auto; object-fit: cover;">
             </h3>
             <div class="mb-1 text-muted"><?php echo $nacional["autor"]; ?></div>
             <p class="card-text mb-auto"><?php echo $nacional["resumen"]; ?></p>
