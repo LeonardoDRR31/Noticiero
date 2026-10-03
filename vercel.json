@@ -1,3 +1,4 @@
+
 {
   "$schema": "https://openapi.vercel.sh/vercel.json",
   "functions": {
@@ -7,7 +8,7 @@
   },
   "rewrites": [
     {
-      "source": "/(.*)",
+      "source": "/((?!img_|css_|js_|api/).*)",
       "destination": "/api/index.php"
     }
   ]
